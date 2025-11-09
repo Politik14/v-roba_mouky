@@ -6,7 +6,7 @@ vyrábíš mouku.
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Hra: Vaření perníku</title>
+  <title>Hra: mouka men</title>
   <style>
     :root{--bg:#f7f3ea;--panel:#fff;--accent:#8b5e3c}
     body{margin:0;font-family:Inter,system-ui,Segoe UI,Roboto,Arial; background:var(--bg); color:#222}
